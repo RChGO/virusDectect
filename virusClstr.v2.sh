@@ -1,0 +1,1 @@
+/share/data2/guorc/script/WGS/Virus/virusClstr.v2.sh
